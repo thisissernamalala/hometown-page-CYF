@@ -96,4 +96,7 @@ footer{
         align-items: center;
         width: 70%;
     }
+    .activity p{
+        width:80%;
+    }
   }
